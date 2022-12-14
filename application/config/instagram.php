@@ -11,7 +11,7 @@
 
 $config['instagram_client_name']	= '';
 $config['instagram_client_id']		= '719189319538623';
-$config['instagram_client_secret']	= 'ecce1bdf38195bd33d56aa686c1310a4';
+$config['instagram_client_secret']	= '';
 $config['instagram_callback_url']	= 'https://buraaq.in/applyKartApi/ig-login/authorize';//e.g. http://yourwebsite.com/authorize/get_code/
 $config['instagram_website']		= '';//e.g. http://yourwebsite.com/
 $config['instagram_description']	= '';
